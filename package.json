@@ -1,6 +1,6 @@
 {
     "name":"com.boddle.icon-generator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Boddle Icon Generator",
     "description": "Generates an icon with an outline for items",
     "unity": "2018.3",
