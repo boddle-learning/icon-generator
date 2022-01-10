@@ -1,0 +1,17 @@
+{
+    "name":"com.boddle.icon-generator",
+    "version": "1.0.0",
+    "displayName": "Boddle Icon Generator",
+    "description": "Generates an icon with an outline for items",
+    "unity": "2018.3",
+    "author": {
+        "email": "philldamaskin@gmail.com",
+        "name": "Phill (popcron)"
+    },
+    "keywords": [
+        "icon",
+        "generator",
+        "sprite",
+        "2d"
+    ]
+}
